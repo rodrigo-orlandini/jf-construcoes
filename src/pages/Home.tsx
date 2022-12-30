@@ -1,4 +1,5 @@
 import Header from '../components/Header';
+import Offer from '../components/Offer';
 
 import Pic1 from '../assets/pics/Pic1.jpeg';
 import Pic2 from '../assets/pics/Pic2.jpeg';
@@ -14,9 +15,10 @@ import Pic11 from '../assets/pics/Pic11.jpeg';
 import Pic12 from '../assets/pics/Pic12.jpeg';
 
 const Home = () => {    
-
 	return (
         <>
+            <Offer />
+            
             <main className="
                 w-[1200px] mx-auto mt-10
                 max-[1400px]:w-[90vw] max-[700px]:text-center 
