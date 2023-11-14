@@ -5,5 +5,5 @@ A basic landing page created for JF Construções company.
 ### Techonolgies
 
 ![Typescript](.markdown/typescript.png "Typescript")
-![NextJS](.markdown/nextjs.png "NextJS")
+![React](.markdown/react.png "React")
 ![Tailwind](.markdown/tailwind.png "Tailwind")
